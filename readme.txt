@@ -8,6 +8,9 @@ License: GPL2
 Displays a list of all child categories and their associated post titles as links in a list format of a single user defined Parent Category.
 
 == Description ==
+
+I have plans to update this plugin and add another one similar for displaying Page Links in hierarchical order at any level of the tree.
+
 The idea for this pliugin came from a need to use a single widget in UberMenu Item Widget areas to display a list of all sub categories and their post titles as links in a menu. We needed the widget to be totally dynamic and responsive. 
 
 The widget I created gives the wordpress admin the option to select a single parent category from the "wp_dropdown_categories" select box in the widget admin area and the result is an unordered list of Child Category Titles and Linked Post Titles.
